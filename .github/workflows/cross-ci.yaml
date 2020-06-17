@@ -5,7 +5,6 @@ on:
   push:
     branches:
       - master
-      - add_cross_ci
 
 jobs:
 
